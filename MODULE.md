@@ -31,15 +31,15 @@ unlimit/
 To use Unlimit in your project:
 
 ```bash
-go get github.com/voidforge-studios/unlimit
+go get github.com/nvnamsss/unlimit
 ```
 
 This will download all submodules, and you can import only what you need:
 
 ```go
 import (
-    "github.com/voidforge-studios/unlimit/cache"
-    "github.com/voidforge-studios/unlimit/db/mongo"
+    "github.com/nvnamsss/unlimit/cache"
+    "github.com/nvnamsss/unlimit/db/mongo"
 )
 ```
 
@@ -48,7 +48,7 @@ import (
 If you only need specific functionality, you can import just those submodules:
 
 ```go
-import "github.com/voidforge-studios/unlimit/log"
+import "github.com/nvnamsss/unlimit/log"
 ```
 
 This will only pull in the logging functionality without the database or other components.

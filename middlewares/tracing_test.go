@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/gin-gonic/gin"
-	"github.com/voidforge-studios/unlimit/observe"
+	"github.com/nvnamsss/unlimit/observe"
 )
 
 // ---------- mocks ----------

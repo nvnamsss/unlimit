@@ -1,7 +1,7 @@
 package utility
 
 import (
-	"github.com/voidforge-studios/unlimit/collections"
+	"github.com/nvnamsss/unlimit/collections"
 )
 
 // UniqueArray returns a slice containing only the unique elements from the input slice.

@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/voidforge-studios/unlimit/logger"
+	"github.com/nvnamsss/unlimit/logger"
 )
 
 type Backoff func(retry int) time.Duration

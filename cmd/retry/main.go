@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/voidforge-studios/unlimit/collections"
+	"github.com/nvnamsss/unlimit/collections"
 )
 
 func main() {

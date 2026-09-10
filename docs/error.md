@@ -9,7 +9,7 @@ You can reuse constants from the `net/http` package (e.g., `http.StatusBadReques
 
 ```go
 import (
-	"github.com/voidforge-studios/unlimit/errors"
+	"github.com/nvnamsss/unlimit/errors"
 	"net/http"
 )
 

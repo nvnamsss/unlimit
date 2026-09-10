@@ -4,7 +4,7 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/voidforge-studios/unlimit/algo"
+	"github.com/nvnamsss/unlimit/algo"
 )
 
 // DynamicLFU implements a Least Frequently Used (LFU) cache with dynamic capacity

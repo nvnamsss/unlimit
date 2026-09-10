@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/voidforge-studios/unlimit/trigger"
+	"github.com/nvnamsss/unlimit/trigger"
 )
 
 type LoginData struct {

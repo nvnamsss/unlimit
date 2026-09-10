@@ -9,7 +9,7 @@ This guide provides step-by-step instructions for newcomers to implement batch p
 Import the `collections` package in your Go file:
 
 ```go
-import "github.com/voidforge-studios/unlimit/collections"
+import "github.com/nvnamsss/unlimit/collections"
 ```
 
 ---

@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/voidforge-studios/unlimit/logger"
+	"github.com/nvnamsss/unlimit/logger"
 )
 
 type JobHandler interface {

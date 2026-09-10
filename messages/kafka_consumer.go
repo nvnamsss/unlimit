@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/IBM/sarama"
-	"github.com/voidforge-studios/unlimit/logger"
+	"github.com/nvnamsss/unlimit/logger"
 )
 
 var (

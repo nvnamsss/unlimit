@@ -1,6 +1,6 @@
 package algo
 
-import "github.com/voidforge-studios/unlimit/utility"
+import "github.com/nvnamsss/unlimit/utility"
 
 // baseGraph contains common functionality for both directed and undirected graphs
 type baseGraph[T comparable] struct {

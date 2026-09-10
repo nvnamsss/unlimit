@@ -157,18 +157,18 @@ Each version tag should include release notes describing:
 For Go modules, follow these rules:
 
 ### v0 and v1
-- Use `github.com/voidforge-studios/unlimit` as module path
+- Use `github.com/nvnamsss/unlimit` as module path
 - Tags: `v0.1.0`, `v1.0.0`, `v1.2.3`
 
 ### v2 and Beyond
 - Update module path to include `/v2`, `/v3`, etc.
-- Module path: `github.com/voidforge-studios/unlimit/v2`
+- Module path: `github.com/nvnamsss/unlimit/v2`
 - Tags: `v2.0.0`, `v2.1.0`
 
 **Example:**
 ```go
 // go.mod for v2
-module github.com/voidforge-studios/unlimit/v2
+module github.com/nvnamsss/unlimit/v2
 
 go 1.24
 ```

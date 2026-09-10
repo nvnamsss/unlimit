@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/voidforge-studios/unlimit/logger"
+	"github.com/nvnamsss/unlimit/logger"
 )
 
 // PollingMetrics contains current polling statistics.

@@ -3,7 +3,7 @@ package trigger
 import (
 	"fmt"
 
-	"github.com/voidforge-studios/unlimit/caster"
+	"github.com/nvnamsss/unlimit/caster"
 )
 
 // TypedTrigger wraps a Trigger with type-safe methods

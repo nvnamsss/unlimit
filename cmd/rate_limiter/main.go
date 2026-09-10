@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/alicebob/miniredis/v2"
+	"github.com/nvnamsss/unlimit/stability"
 	"github.com/redis/go-redis/v9"
-	"github.com/voidforge-studios/unlimit/stability"
 )
 
 func main() {

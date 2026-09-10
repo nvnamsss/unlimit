@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/nats-io/nats.go"
-	"github.com/voidforge-studios/unlimit/utility"
+	"github.com/nvnamsss/unlimit/utility"
 )
 
 type NATsProducer struct {

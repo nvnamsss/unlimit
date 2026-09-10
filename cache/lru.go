@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/voidforge-studios/unlimit/algo"
+	"github.com/nvnamsss/unlimit/algo"
 )
 
 // lruEntry wraps a value with optional expiration time for TTL support.

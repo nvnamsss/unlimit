@@ -3,8 +3,8 @@ package utility
 import (
 	"net/http"
 
-	"github.com/voidforge-studios/unlimit/errors"
-	"github.com/voidforge-studios/unlimit/logger"
+	"github.com/nvnamsss/unlimit/errors"
+	"github.com/nvnamsss/unlimit/logger"
 )
 
 // HandleError handles API errors and returns status code and response body

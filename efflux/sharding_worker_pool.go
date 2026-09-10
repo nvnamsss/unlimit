@@ -3,7 +3,7 @@ package efflux
 import (
 	"context"
 
-	"github.com/voidforge-studios/unlimit/algo"
+	"github.com/nvnamsss/unlimit/algo"
 )
 
 // ShardingWorkerPool routes tasks to a deterministic worker shard by task ID hash.

@@ -3,7 +3,7 @@ package utility_test
 import (
 	"fmt"
 
-	"github.com/voidforge-studios/unlimit/utility"
+	"github.com/nvnamsss/unlimit/utility"
 )
 
 func ExampleConvert_float64ToInt() {

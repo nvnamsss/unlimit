@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/gin-gonic/gin"
-	"github.com/voidforge-studios/unlimit/observe"
+	"github.com/nvnamsss/unlimit/observe"
 )
 
 // TracingMiddleware returns a Gin middleware that starts a trace span for each

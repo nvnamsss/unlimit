@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/voidforge-studios/unlimit/efflux"
+	"github.com/nvnamsss/unlimit/efflux"
 )
 
 // Example demonstrates basic usage of the polling framework.

@@ -8,8 +8,8 @@ import (
 	"sync/atomic"
 	"time"
 
+	"github.com/nvnamsss/unlimit/efflux"
 	"github.com/redis/go-redis/v9"
-	"github.com/voidforge-studios/unlimit/efflux"
 )
 
 const (

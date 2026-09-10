@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/voidforge-studios/unlimit/scheduler"
+	"github.com/nvnamsss/unlimit/scheduler"
 )
 
 func main() {

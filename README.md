@@ -11,7 +11,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/voidforge-studios/unlimit.git
+   git clone https://github.com/nvnamsss/unlimit.git
    cd unlimit
    ```
 
@@ -62,7 +62,7 @@ export GOPRIVATE=github.com/voidforge-studios/*
 Then:
 ```bash
 # To get the entire module with all submodules at once:
-go get github.com/voidforge-studios/unlimit@v0.4.6
+go get github.com/nvnamsss/unlimit@v0.4.6
 ```
 
 This single command will make all submodules available for import in your project.
@@ -73,10 +73,10 @@ Import specific submodules as needed in your code:
 
 ```go
 import (
-    "github.com/voidforge-studios/unlimit/cache"
-    "github.com/voidforge-studios/unlimit/db"
-    "github.com/voidforge-studios/unlimit/kafka"
-    "github.com/voidforge-studios/unlimit/log"
+    "github.com/nvnamsss/unlimit/cache"
+    "github.com/nvnamsss/unlimit/db"
+    "github.com/nvnamsss/unlimit/kafka"
+    "github.com/nvnamsss/unlimit/log"
 )
 ```
 
@@ -86,8 +86,8 @@ import (
 package main
 
 import (
-    "github.com/voidforge-studios/unlimit/cache"
-    "github.com/voidforge-studios/unlimit/log"
+    "github.com/nvnamsss/unlimit/cache"
+    "github.com/nvnamsss/unlimit/log"
 )
 
 func main() {

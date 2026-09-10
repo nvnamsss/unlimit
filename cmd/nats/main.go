@@ -7,7 +7,7 @@ import (
 	"os/signal"
 
 	"github.com/nats-io/nats.go"
-	"github.com/voidforge-studios/unlimit/messages"
+	"github.com/nvnamsss/unlimit/messages"
 )
 
 func main() {

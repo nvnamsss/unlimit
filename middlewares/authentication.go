@@ -8,8 +8,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/voidforge-studios/unlimit/errors"
-	"github.com/voidforge-studios/unlimit/utility"
+	"github.com/nvnamsss/unlimit/errors"
+	"github.com/nvnamsss/unlimit/utility"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/voidforge-studios/unlimit/errors"
+	"github.com/nvnamsss/unlimit/errors"
 )
 
 // RoleConfig defines required roles for an endpoint

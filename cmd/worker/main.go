@@ -13,8 +13,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/voidforge-studios/unlimit/efflux"
-	"github.com/voidforge-studios/unlimit/logger"
+	"github.com/nvnamsss/unlimit/efflux"
+	"github.com/nvnamsss/unlimit/logger"
 )
 
 // SimpleTask implements the efflux.Task interface
